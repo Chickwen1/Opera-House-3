@@ -1,0 +1,14 @@
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\bin\Debug\OperaHouse-Assignment3.exe.config
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\bin\Debug\OperaHouse-Assignment3.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\bin\Debug\OperaHouse-Assignment3.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\obj\Debug\OperaHouse-Assignment3.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\bin\Debug\OperaHouse-Assignment3.exe.config
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\bin\Debug\OperaHouse-Assignment3.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\OperaHouse-Assignment3\bin\Debug\OperaHouse-Assignment3.pdb

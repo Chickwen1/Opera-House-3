@@ -1,0 +1,20 @@
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\TicketingTest.dll
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\TicketingTest.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\OperaHouse-Assignment3.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\OperaHouse-Assignment3.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\OperaHouse-Assignment3.exe.config
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.csprojResolveAssemblyReference.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.csproj.CoreCompileInputs.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.dll
+C:\Users\martis73\Desktop\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\TicketingTest.dll
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\TicketingTest.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\OperaHouse-Assignment3.exe
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\OperaHouse-Assignment3.pdb
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\bin\Debug\OperaHouse-Assignment3.exe.config
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.csprojResolveAssemblyReference.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.csproj.CoreCompileInputs.cache
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.dll
+C:\Users\martis73\Desktop\OperaHouse-Assignment3 (2)\OperaHouse-Assignment3\OperaHouse-Assignment3\TicketingTest\obj\Debug\TicketingTest.pdb
